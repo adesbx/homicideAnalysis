@@ -1,0 +1,165 @@
+Country,Latitude,Longitude
+Algeria,28.0,3.0
+Egypt,27.0,30.0
+Morocco,32.0,-5.0
+Tunisia,34.0,9.0
+Botswana,-22.0,24.0
+Burundi,-3.5,30.0
+Cabo Verde,16.000055,-24.008395
+Cameroon,6.0,12.0
+Eswatini,-26.562481,31.399132
+Ghana,8.0,-2.0
+Kenya,1.0,38.0
+Madagascar,-20.0,47.0
+Mauritius,-20.28333333,57.55
+Namibia,-22.0,17.0
+Réunion,-21.15,55.5
+Rwanda,-2.0,30.0
+Sao Tome and Principe,0.338924,6.731303
+Seychelles,-4.58333333,55.66666666
+South Africa,-29.0,24.0
+Uganda,1.0,32.0
+United Republic of Tanzania,-6.0,35.0
+Zimbabwe,-20.0,30.0
+Anguilla,18.25,-63.16666666
+Antigua and Barbuda,17.05,-61.8
+Argentina,-34.0,-64.0
+Aruba,12.5,-69.96666666
+Bahamas,24.773655,-78.000055
+Barbados,13.16666666,-59.53333333
+Belize,17.25,-88.75
+Bolivia (Plurinational State of),-17.05687,-64.991229
+Brazil,-10.0,-55.0
+British Virgin Islands,18.40244,-64.566164
+Cayman Islands,19.5,-80.5
+Chile,-30.0,-71.0
+Colombia,4.0,-72.0
+Costa Rica,10.0,-84.0
+Cuba,21.5,-80.0
+Curaçao,12.213514,-69.040892
+Dominica,15.41666666,-61.33333333
+Dominican Republic,19.0,-70.66666666
+Ecuador,-2.0,-77.5
+El Salvador,13.83333333,-88.91666666
+French Guiana,4.0,-53.0
+Grenada,12.11666666,-61.66666666
+Guadeloupe,16.25,-61.583333
+Guatemala,15.5,-90.25
+Guyana,5.0,-59.0
+Haiti,19.0,-72.41666666
+Honduras,15.0,-86.5
+Jamaica,18.25,-77.5
+Martinique,14.666667,-61.0
+Mexico,23.0,-102.0
+Montserrat,16.75,-62.2
+Nicaragua,13.0,-85.0
+Panama,9.0,-80.0
+Paraguay,-23.0,-58.0
+Peru,-10.0,-76.0
+Puerto Rico,18.25,-66.5
+Saint Kitts and Nevis,17.33333333,-62.75
+Saint Lucia,13.88333333,-60.96666666
+Saint Vincent and the Grenadines,13.25,-61.2
+Suriname,4.0,-56.0
+Trinidad and Tobago,11.0,-61.0
+Turks and Caicos Islands,21.721746,-71.5527809
+United States Virgin Islands,17.789187,-64.7080574
+Uruguay,-33.0,-56.0
+Venezuela (Bolivarian Republic of),8.001871,-66.110932
+Bermuda,32.33333333,-64.75
+Canada,60.0,-95.0
+Saint Pierre and Miquelon,46.83333333,-56.33333333
+United States of America,38.0,-97.0
+Kazakhstan,48.0,68.0
+Tajikistan,39.0,71.0
+Turkmenistan,40.0,60.0
+Uzbekistan,41.0,64.0
+"China, Hong Kong Special Administrative Region",22.2793278,114.1628131
+"China, Macao Special Administrative Region",22.1899448,113.5380454
+Japan,36.0,138.0
+Mongolia,46.0,105.0
+Republic of Korea,37.0,127.5
+Brunei Darussalam,4.4137155,114.5653908
+Myanmar,17.17505,95.999965
+Philippines,13.0,122.0
+Singapore,1.36666666,103.8
+Thailand,15.0,100.0
+Afghanistan,33.0,65.0
+Bhutan,27.5,90.5
+India,20.0,77.0
+Iran (Islamic Republic of),32.6475314,54.5643516
+Maldives,3.25,73.0
+Sri Lanka,7.0,81.0
+Armenia,40.0,45.0
+Azerbaijan,40.5,47.5
+Bahrain,26.0,50.55
+Cyprus,35.0,33.0
+Georgia,42.0,43.5
+Iraq,33.0,44.0
+Iraq (Central Iraq),33.0,44.0
+Iraq (Kurdistan Region),35.672803,47.0124376
+Israel,31.5,34.75
+Jordan,31.0,36.0
+Kuwait,29.5,45.75
+Lebanon,33.83333333,35.83333333
+Oman,21.0,57.0
+Qatar,25.5,51.25
+State of Palestine,31.420572725490146,34.371866889551576
+Türkiye,38.9597594,34.9249653
+United Arab Emirates,24.0,54.0
+Belarus,53.0,28.0
+Bulgaria,43.0,25.0
+Czechia,49.7439047,15.3381061
+Hungary,47.0,20.0
+Poland,52.0,20.0
+Republic of Moldova,47.0,29.0
+Romania,46.0,25.0
+Russian Federation,60.0,100.0
+Slovakia,48.66666666,19.5
+Ukraine,49.0,32.0
+Denmark,56.0,10.0
+Estonia,59.0,26.0
+Finland,64.0,26.0
+Iceland,65.0,-18.0
+Ireland,53.0,-8.0
+Latvia,57.0,25.0
+Lithuania,56.0,24.0
+Norway,62.0,10.0
+Sweden,62.0,15.0
+United Kingdom (England and Wales),54.7023545,-3.2765753
+United Kingdom (Northern Ireland),54.5747034228145,-6.713063461326687
+United Kingdom (Scotland),56.7861112,-4.1140518
+United Kingdom of Great Britain and Northern Ireland,54.7023545,-3.2765753
+Albania,41.0,20.0
+Andorra,42.5069391,1.5212467
+Bosnia and Herzegovina,44.0,18.0
+Croatia,45.16666666,15.5
+Greece,39.0,22.0
+Holy See,41.903411,12.4528527
+Italy,42.83333333,12.83333333
+Kosovo under UNSCR 1244,42.5869578,20.9021231
+Malta,35.83333333,14.58333333
+Montenegro,42.9868853,19.5180992
+North Macedonia,41.6171214,21.7168387
+Portugal,39.5,-8.0
+San Marino,43.76666666,12.41666666
+Serbia,44.1305021,16.4284181
+Slovenia,46.11666666,14.81666666
+Spain,40.0,-4.0
+Austria,47.33333333,13.33333333
+Belgium,50.83333333,4.0
+France,46.0,2.0
+Germany,51.0,9.0
+Liechtenstein,47.26666666,9.53333333
+Luxembourg,49.75,6.16666666
+Monaco,43.73333333,7.4
+Netherlands,52.5,5.75
+Switzerland,47.0,8.0
+Australia,-27.0,133.0
+New Zealand,-41.0,174.0
+Fiji,-18.0,175.0
+Vanuatu,-16.0,167.0
+Micronesia (Federated States of),8.6062347,151.8327443
+American Samoa,-14.33333333,-170.0
+Samoa,-13.58333333,-172.33333333
+Tonga,-20.0,-175.0
